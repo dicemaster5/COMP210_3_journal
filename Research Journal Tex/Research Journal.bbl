@@ -38,4 +38,29 @@ A.~I. Wang, ``Survey on how norwegian teenagers play video games,'' in
   \emph{2011 IEEE International Games Innovation Conference (IGIC)}, Nov 2011,
   pp. 26--28.
 
+\bibitem{four}
+\BIBentryALTinterwordspacing
+E.~Andersen, Y.-E. Liu, R.~Snider, R.~Szeto, and Z.~Popovi\'{c}, ``Placing a
+  value on aesthetics in online casual games,'' in \emph{Proceedings of the
+  SIGCHI Conference on Human Factors in Computing Systems}, ser. CHI '11.\hskip
+  1em plus 0.5em minus 0.4em\relax New York, NY, USA: ACM, 2011, pp.
+  1275--1278. [Online]. Available:
+  \url{http://doi.acm.org.ezproxy.falmouth.ac.uk/10.1145/1978942.1979131}
+\BIBentrySTDinterwordspacing
+
+\bibitem{five}
+P.~Hynninen and M.~Kauppinen, ``A/b testing: A promising tool for customer
+  value evaluation,'' in \emph{2014 IEEE 1st International Workshop on
+  Requirements Engineering and Testing (RET)}, Aug 2014, pp. 16--17.
+
+\bibitem{six}
+\BIBentryALTinterwordspacing
+R.~Vliegendhart, E.~Dolstra, and J.~Pouwelse, ``Crowdsourced user interface
+  testing for multimedia applications,'' in \emph{Proceedings of the ACM
+  Multimedia 2012 Workshop on Crowdsourcing for Multimedia}, ser. CrowdMM
+  '12.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY, USA: ACM, 2012, pp.
+  21--22. [Online]. Available:
+  \url{http://doi.acm.org.ezproxy.falmouth.ac.uk/10.1145/2390803.2390813}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
